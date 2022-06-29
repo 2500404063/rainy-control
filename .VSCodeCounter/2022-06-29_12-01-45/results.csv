@@ -1,0 +1,13 @@
+"filename", "language", "Go", "Go Checksum File", "Batch", "Go Module File", "comment", "blank", "total"
+"c:\Users\Felix\Desktop\Rainy\Client\basic\commands.go", "Go", 123, 0, 0, 0, 1, 11, 135
+"c:\Users\Felix\Desktop\Rainy\Client\basic\connection.go", "Go", 42, 0, 0, 0, 0, 7, 49
+"c:\Users\Felix\Desktop\Rainy\Client\basic\download.go", "Go", 20, 0, 0, 0, 0, 3, 23
+"c:\Users\Felix\Desktop\Rainy\Client\basic\launch.go", "Go", 25, 0, 0, 0, 0, 4, 29
+"c:\Users\Felix\Desktop\Rainy\Client\cmd\cmd.go", "Go", 31, 0, 0, 0, 0, 5, 36
+"c:\Users\Felix\Desktop\Rainy\Client\compile.bat", "Batch", 0, 0, 1, 0, 0, 0, 1
+"c:\Users\Felix\Desktop\Rainy\Client\device\identity.go", "Go", 22, 0, 0, 0, 0, 4, 26
+"c:\Users\Felix\Desktop\Rainy\Client\filelock\filelock.go", "Go", 100, 0, 0, 0, 11, 10, 121
+"c:\Users\Felix\Desktop\Rainy\Client\go.mod", "Go Module File", 0, 0, 0, 4, 0, 4, 8
+"c:\Users\Felix\Desktop\Rainy\Client\go.sum", "Go Checksum File", 0, 5, 0, 0, 0, 1, 6
+"c:\Users\Felix\Desktop\Rainy\Client\main.go", "Go", 27, 0, 0, 0, 0, 8, 35
+"Total", "-", 390, 5, 1, 4, 12, 57, 469

@@ -1,0 +1,42 @@
+Date : 2022-06-29 12:01:45
+Directory : c:\Users\Felix\Desktop\Rainy\Client
+Total : 11 files,  400 codes, 12 comments, 57 blanks, all 469 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Go               |          8 |        390 |         12 |         52 |        454 |
+| Go Checksum File |          1 |          5 |          0 |          1 |          6 |
+| Go Module File   |          1 |          4 |          0 |          4 |          8 |
+| Batch            |          1 |          1 |          0 |          0 |          1 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                        |         11 |        400 |         12 |         57 |        469 |
+| basic                                                    |          4 |        210 |          1 |         25 |        236 |
+| cmd                                                      |          1 |         31 |          0 |          5 |         36 |
+| device                                                   |          1 |         22 |          0 |          4 |         26 |
+| filelock                                                 |          1 |        100 |         11 |         10 |        121 |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                 | language         | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\Felix\Desktop\Rainy\Client\basic\commands.go    | Go               |        123 |          1 |         11 |        135 |
+| c:\Users\Felix\Desktop\Rainy\Client\basic\connection.go  | Go               |         42 |          0 |          7 |         49 |
+| c:\Users\Felix\Desktop\Rainy\Client\basic\download.go    | Go               |         20 |          0 |          3 |         23 |
+| c:\Users\Felix\Desktop\Rainy\Client\basic\launch.go      | Go               |         25 |          0 |          4 |         29 |
+| c:\Users\Felix\Desktop\Rainy\Client\cmd\cmd.go           | Go               |         31 |          0 |          5 |         36 |
+| c:\Users\Felix\Desktop\Rainy\Client\compile.bat          | Batch            |          1 |          0 |          0 |          1 |
+| c:\Users\Felix\Desktop\Rainy\Client\device\identity.go   | Go               |         22 |          0 |          4 |         26 |
+| c:\Users\Felix\Desktop\Rainy\Client\filelock\filelock.go | Go               |        100 |         11 |         10 |        121 |
+| c:\Users\Felix\Desktop\Rainy\Client\go.mod               | Go Module File   |          4 |          0 |          4 |          8 |
+| c:\Users\Felix\Desktop\Rainy\Client\go.sum               | Go Checksum File |          5 |          0 |          1 |          6 |
+| c:\Users\Felix\Desktop\Rainy\Client\main.go              | Go               |         27 |          0 |          8 |         35 |
+| Total                                                    |                  |        400 |         12 |         57 |        469 |
++----------------------------------------------------------+------------------+------------+------------+------------+------------+
