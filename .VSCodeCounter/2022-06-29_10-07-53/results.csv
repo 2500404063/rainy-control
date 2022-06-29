@@ -1,0 +1,9 @@
+"filename", "language", "Go Module File", "Go", "Go Checksum File", "Markdown", "comment", "blank", "total"
+"c:\Users\Felix\Desktop\Rainy\Server\basic\commands.go", "Go", 0, 138, 0, 0, 0, 15, 153
+"c:\Users\Felix\Desktop\Rainy\Server\basic\connection.go", "Go", 0, 42, 0, 0, 0, 7, 49
+"c:\Users\Felix\Desktop\Rainy\Server\big-frontend.md", "Markdown", 0, 0, 0, 26, 0, 5, 31
+"c:\Users\Felix\Desktop\Rainy\Server\go.mod", "Go Module File", 3, 0, 0, 0, 0, 3, 6
+"c:\Users\Felix\Desktop\Rainy\Server\go.sum", "Go Checksum File", 0, 0, 3, 0, 0, 1, 4
+"c:\Users\Felix\Desktop\Rainy\Server\main.go", "Go", 0, 21, 0, 0, 0, 4, 25
+"c:\Users\Felix\Desktop\Rainy\Server\react_env.md", "Markdown", 0, 0, 0, 164, 1, 17, 182
+"Total", "-", 3, 201, 3, 190, 1, 52, 450
